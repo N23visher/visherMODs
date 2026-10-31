@@ -1,0 +1,15 @@
+﻿# PyInstaller 打包生成的临时/输出目录
+build/
+dist/
+release/
+
+# Python缓存
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# 系统杂项
+*.log
+.DS_Store
+Thumbs.db
