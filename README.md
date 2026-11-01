@@ -23,4 +23,3 @@
 - 可使用PyInstaller打包为exe程序，搭配Inno‑Setup制作安装程序
 
 ## License
-GUN General Public License v3.0
