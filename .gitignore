@@ -1,4 +1,4 @@
-﻿# PyInstaller 打包生成的临时/输出目录
+﻿# 打包生成的临时/输出目录
 build/
 dist/
 release/
@@ -9,7 +9,7 @@ __pycache__/
 *.pyo
 *.pyd
 
-# 系统杂项
+# 杂项
 *.log
 .DS_Store
 Thumbs.db
